@@ -1,6 +1,6 @@
 import axios from "axios";
 import { useState } from "react";
-const urlBase = 'https://e-commerce-api-v2.academlo.tech/api/v1';
+const urlBase = 'https://entregable-ecommerce-tcv.onrender.com/api/v1';
 
 const useFetch = () => {
   const [apiData, setapiData] = useState();
