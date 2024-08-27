@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 import axios from "axios";
-const urlBase = 'https://e-commerce-api-v2.academlo.tech/api/v1';
+const urlBase = 'https://entregable-ecommerce-tcv.onrender.com/api/v1';
 
 const products = createSlice({
     name: 'products',
