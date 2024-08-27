@@ -1,0 +1,8 @@
+.filterselect{
+    display: flex;
+}
+
+select{
+    width: 50%;
+    font-size: 1rem;    
+}
